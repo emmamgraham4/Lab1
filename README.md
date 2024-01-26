@@ -3,7 +3,7 @@
 pwd
 Out[1]: '/Users/emmagraham'
 
-# the pwd command shows the path name of my current directory
+## the pwd command shows the path name of my current directory
 
 
 ls
@@ -19,32 +19,32 @@ Library/                    Untitled5.ipynb
 Movies/                     anaconda3/
 Music/                      opt/
 
-# the ls command lists all of the files in my current directory
+## the ls command lists all of the files in my current directory
 
 
 mkdir Lab1
 mkdir: Lab1: File exists
 
-# the mkdir command creates a new directory
+## the mkdir command creates a new directory
 
 
 cd
 /Users/emmagraham
 
-# cd displays the current directory name
+## cd displays the current directory name
 
 
 cd ..
 /Users
 
-# this command changes the current directory
+## this command changes the current directory
 
 
 clear
 
-# clear is a command that simply clears your terminal screen
+## clear is a command that simply clears your terminal screen
 
-# Questions:
+## Questions:
 # 1) What version of Python are you running?
   # I am running the Python 3.11.3 version.
 
